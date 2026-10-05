@@ -27,3 +27,17 @@ Roughly one in four company-years is High Risk and warrants closer monitoring.
  
 ## Disclaimer
 Created for analytical and portfolio purposes only. It does not represent the methodology, ratings, or lending decisions of any financial institution.
+
+## Power BI Dashboard
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Credit Risk Trend
+![Credit Risk Trend](screenshots/credit_risk_trend.png)
+
+### Financial Performance
+![Financial Performance](screenshots/financial_performance.png)
+
+### Credit Assessment
+![Credit Assessment](screenshots/credit_assessment.png)
