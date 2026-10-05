@@ -41,3 +41,10 @@ Created for analytical and portfolio purposes only. It does not represent the me
 
 ### Credit Assessment
 ![Credit Assessment](screenshots/credit_assessment.png)
+
+## Project Files
+
+- [SQL Analysis](sql/)
+- [Power BI Dashboard](powerbi/)
+- [Dashboard Screenshots](screenshots/)
+- [Power BI Report File](powerbi/corporate_credit_risk_dashboard.pbix)
